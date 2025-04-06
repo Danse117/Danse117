@@ -35,6 +35,7 @@ Hi there! I'm Adam, an ambitious and goal-driven computer science student with a
 
 ### 💻 Check out my repo for my latest projects!
 
+### Currently Pursing the Jr Pentester Path on TryHackMe!
 <img src="https://tryhackme-badges.s3.amazonaws.com/danse.png" alt="Danse's THM Badge" />
 
 
