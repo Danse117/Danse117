@@ -35,5 +35,6 @@ Hi there! I'm Adam, an ambitious and goal-driven computer science student with a
 
 ### 💻 Check out my repo for my latest projects!
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4491022" style='border:none;'></iframe>
 
 
