@@ -35,6 +35,6 @@ Hi there! I'm Adam, an ambitious and goal-driven computer science student with a
 
 ### 💻 Check out my repo for my latest projects!
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4491022" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/danse.png" alt="Danse's THM Badge" />
 
 
