@@ -1,4 +1,4 @@
-# 🧑‍🚀️ Danse117
+# 👨‍💻 Danse117
 
 **`Computer Science Graduate | iOS • AI/ML • Web Developer`**
 
@@ -21,7 +21,7 @@ I believe in learning by doing, and every repo on this profile reflects a step f
 ---
 
 ### ⚙️ Languages and Tools
-<p>
+<p align="center">
   <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
   <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
@@ -39,11 +39,10 @@ I believe in learning by doing, and every repo on this profile reflects a step f
 </p>
 
 ---
-
-### 🔐 Currently Exploring Cybersecurity
-I’m currently working through the **Jr Pentester Path** on TryHackMe:
-<br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/danse.png" alt="Danse's THM Badge" />
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/danse.png" alt="Danse's THM Badge" width=300 align="center"> 
+  <img src="https://api.boot.dev/v1/users/public/4df421b6-e3b9-4879-8c52-8585b2445617/thumbnail" alt="Danse's Boot.dev Badge" width=400 align="center">
+</p>
 
 ---
 ### 📊 Top Languages
